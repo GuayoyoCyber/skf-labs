@@ -1,3 +1,0 @@
-Flask==2.2.2
-requests==2.19.1
-Werkzeug==02.2.2
